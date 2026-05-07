@@ -61,7 +61,7 @@ I enjoy building projects that feel smooth, lightweight and practical while main
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,vscode" />
 
 </div>
 
@@ -76,28 +76,6 @@ I enjoy building projects that feel smooth, lightweight and practical while main
 | 🐾 **PawGram** | Optimized social experience focused on smoothness and usability | 🟢 Active |
 | 📺 **PawTube** | Lightweight and clean media-focused platform experience | 🟢 Active |
 | 🎵 **Pawtify** | Futuristic music player web app with immersive UI | 🟡 In Development |
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iamsky837&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsky837&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
