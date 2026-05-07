@@ -14,6 +14,7 @@
 ```js
 const SKY = {
     role: "Developer",
+
     focus: [
         "Frontend Engineering",
         "Performance Optimization",
@@ -80,29 +81,23 @@ I enjoy building projects that feel smooth, lightweight and practical while main
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamsky837&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iamsky837&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsky837&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsky837&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br>
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamsky837&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=iamsky837&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
