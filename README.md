@@ -107,6 +107,10 @@ Design → Develop → Optimize → Refine → Deploy
     <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://about.me/BiswanathDas">
+    <img src="https://img.shields.io/badge/AboutMeow-121212?style=for-the-badge&logo=cat&logoColor=white" />
+</a>
+
 </div>
 
 ---
