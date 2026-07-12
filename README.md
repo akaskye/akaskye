@@ -25,11 +25,9 @@ const skye = {
     projects: {
         active: [
             "PawGram",
-            "PawTube"
-        ],
-
-        development: [
-            "Pawtify"
+            "PawTube",
+            "Pawtify",
+            "PawDownloader"
         ]
     },
 
