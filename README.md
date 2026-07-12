@@ -75,19 +75,10 @@ I enjoy building projects that feel smooth, lightweight and practical while main
 |---|---|---|
 | 🐾 **PawGram** | Optimized social experience focused on smoothness and usability | 🟢 Active |
 | 📺 **PawTube** | Lightweight and clean media-focused platform experience | 🟢 Active |
-| 🎵 **Pawtify** | Futuristic music player web app with immersive UI | 🟡 In Development |
+| 🎵 **Pawtify** | Futuristic music player web app with immersive UI | 🟢 Active |
+| 📥 **PawDownloader** | An utility Telegram Bot to save Instagram Posts | 🟢 Active |
 
 </div>
-
----
-
-# 🌌 Currently Exploring
-
-- Advanced frontend systems
-- Better UI interactions
-- Modern web performance practices
-- Scalable backend architecture
-- Creative web experiences
 
 ---
 
